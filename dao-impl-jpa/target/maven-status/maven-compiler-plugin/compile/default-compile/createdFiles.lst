@@ -1,0 +1,5 @@
+org/osgi/enroute/examples/microservice/dao/impl/jpa/PersonDAOImpl.class
+org/osgi/enroute/examples/microservice/dao/impl/jpa/entities/AddressEntity.class
+org/osgi/enroute/examples/microservice/dao/impl/jpa/entities/PersonEntity.class
+org/osgi/enroute/examples/microservice/dao/impl/jpa/entities/package-info.class
+org/osgi/enroute/examples/microservice/dao/impl/jpa/AddressDaoImpl.class

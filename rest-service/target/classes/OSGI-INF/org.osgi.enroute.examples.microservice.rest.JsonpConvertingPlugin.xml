@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="org.osgi.enroute.examples.microservice.rest.JsonpConvertingPlugin">
+  <implementation class="org.osgi.enroute.examples.microservice.rest.JsonpConvertingPlugin"/>
+  <service scope="prototype">
+    <provide interface="javax.ws.rs.ext.MessageBodyReader"/>
+    <provide interface="javax.ws.rs.ext.MessageBodyWriter"/>
+  </service>
+  <property name="osgi.jaxrs.media.type" type="String">application/json</property>
+  <property name="osgi.jaxrs.extension" type="Boolean" value="true"/>
+</scr:component>

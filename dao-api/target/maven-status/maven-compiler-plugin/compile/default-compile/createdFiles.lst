@@ -1,0 +1,8 @@
+org/osgi/enroute/examples/microservice/dao/dto/package-info.class
+org/osgi/enroute/examples/microservice/dao/dto/PersonDTO.class
+org/osgi/enroute/examples/microservice/dao/AddressDAO.class
+org/osgi/enroute/examples/microservice/dao/ProviderInterface.class
+org/osgi/enroute/examples/microservice/dao/dto/AddressDTO.class
+org/osgi/enroute/examples/microservice/dao/PersonDAO.class
+org/osgi/enroute/examples/microservice/dao/package-info.class
+org/osgi/enroute/examples/microservice/dao/ConsumerInterface.class

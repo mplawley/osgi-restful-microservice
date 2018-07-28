@@ -1,0 +1,4 @@
+24314319 rest-app/target/rest-app.jar
+12181656 rest-app-jpa/target/rest-app-jpa.jar
+1691385 rest-app/target/tmp/export/rest-app/cnf/cache/4.0.0/bnd-cache/biz.aQute.junit/biz.aQute.junit-4.0.0.jar
+1691385 rest-app-jpa/target/tmp/export/rest-app-jpa/cnf/cache/4.0.0/bnd-cache/biz.aQute.junit/biz.aQute.junit-4.0.0.jar

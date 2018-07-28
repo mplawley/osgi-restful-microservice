@@ -1,0 +1,4 @@
+org/osgi/enroute/examples/microservice/dao/impl/AddressDAOImpl.class
+org/osgi/enroute/examples/microservice/dao/impl/PersonDAOImpl.class
+org/osgi/enroute/examples/microservice/dao/impl/PersonTable.class
+org/osgi/enroute/examples/microservice/dao/impl/AddressTable.class

@@ -1,0 +1,15 @@
+2018-07-28 10:47:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Value too long for column "COUNTRY VARCHAR(2) NOT NULL": "'USA' (3)"; SQL statement:
+INSERT INTO ADDRESSES(EMAIL_ADDRESS,PERSON_ID,CITY,COUNTRY) VALUES(?,?,?,?) [22001-196]
+2018-07-28 10:49:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Value too long for column "COUNTRY VARCHAR(2) NOT NULL": "'USA' (3)"; SQL statement:
+INSERT INTO ADDRESSES(EMAIL_ADDRESS,PERSON_ID,CITY,COUNTRY) VALUES(?,?,?,?) [22001-196]
+2018-07-28 10:49:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Value too long for column "COUNTRY VARCHAR(2) NOT NULL": "'USA' (3)"; SQL statement:
+INSERT INTO ADDRESSES(EMAIL_ADDRESS,PERSON_ID,CITY,COUNTRY) VALUES(?,?,?,?) [22001-196]
+2018-07-28 11:57:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Value too long for column "COUNTRY VARCHAR(2) NOT NULL": "'testCountry' (11)"; SQL statement:
+INSERT INTO ADDRESSES(EMAIL_ADDRESS,PERSON_ID,CITY,COUNTRY) VALUES(?,?,?,?) [22001-196]
+2018-07-28 11:58:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Value too long for column "COUNTRY VARCHAR(2) NOT NULL": "'Test Country' (12)"; SQL statement:
+INSERT INTO ADDRESSES(EMAIL_ADDRESS,PERSON_ID,CITY,COUNTRY) VALUES(?,?,?,?) [22001-196]
